@@ -1,0 +1,123 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px; 
+}
+body{
+    margin: 0px;
+    font-family: inherit;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+
+    
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 8px;
+}
+.logo-text{
+    color: white;
+    font-size: 41px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: inherit;
+    margin-left: 20%;
+    
+    
+
+}
+.Login-label{
+    color:#fff;
+}
+.forgotten{
+    color: #d4cecd;
+    text-decoration: none;
+}
+.submit-button{
+    background:#314399 ;
+    color: #fff;
+    border-color: rgb(60, 71, 214);
+    border-width: 1px;
+    cursor: pointer;
+
+}
+.submit-button:hover{
+    background: rgb(41, 35, 126);
+}
+.left-box{
+    width: 50%;
+    float: left;
+}
+.right-box{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(rgba(rgb(211, 201, 201),#fff));
+    width: 100%;
+    height: 500px;
+}
+.img{
+    width: 408px;
+}
+.paragraph{
+    font-weight: bold;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.BoxmE{
+    width: 262px;
+    height: 20px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.BoxF{
+    height: 20px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.BoxS{
+    height: 20px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.BoxP{
+    height: 20px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.button{
+    background: rgb(63, 175, 41);
+    width: 139px;
+    height: 40px;
+    border-radius: 5px;
+}
+.down-square{
+    width: 100%;
+    height: 150px;
+    background: #c9bebe;
+    margin-top: 40px;
+}
+.upfoot{
+    width: 100%;
+    height: 50px;
+    padding-left: 10%;
+    padding-top: 8px;
+    
+}
+.downfoot{
+    width: 100%;
+    height: 100px;
+    padding-top: initial;
+    padding-left: 10%;
+}
+hr{
+    width: 80%;
+    color: lightcyan;
+}
+
+
