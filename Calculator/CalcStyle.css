@@ -1,0 +1,30 @@
+.Calculator{
+    width: 400px;
+    height: 600px;
+    background: gray;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#display{
+    width: 80%;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    pointer-events: none;
+}
+.btn{
+   
+    font-size: 30px;
+    width: 50px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 50px;
+    background: bisque;
+}
+
+
+
+    
+   
+  
+   
